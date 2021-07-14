@@ -1,0 +1,1 @@
+read this file before open the programm
